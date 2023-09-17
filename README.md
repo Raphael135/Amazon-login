@@ -3,3 +3,4 @@ Criei essa landing page da amazon para treinar e adiquirir novas habilidades vol
 
 https://github.com/Raphael135/Amazon-login/assets/145051566/42232317-480a-489a-8d79-f48455814d27
 
+![image](https://github.com/Raphael135/Amazon-login/assets/145051566/d4e84010-b8b6-4a6f-97bf-d18e680c4958)
